@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "plugins": {
+    "fastapi": {
+      "pip": "jcode-fastapi",
+      "description": "FastAPI dependency injection edges (Depends, Security)",
+      "repo": "https://github.com/codewithjoe-tech/jcode-fastapi"
+    },
+    "django": {
+      "pip": "jcode-django",
+      "description": "Django URL routing, ORM relations and signal edges",
+      "repo": "https://github.com/codewithjoe-tech/jcode-django"
+    },
+    "sqlalchemy": {
+      "pip": "jcode-sqlalchemy",
+      "description": "SQLAlchemy relationship and ForeignKey reference edges",
+      "repo": "https://github.com/codewithjoe-tech/jcode-sqlalchemy"
+    },
+    "express": {
+      "pip": "jcode-express",
+      "description": "Express.js route and middleware edges",
+      "repo": "https://github.com/codewithjoe-tech/jcode-express"
+    },
+    "mongoose": {
+      "pip": "jcode-mongoose",
+      "description": "Mongoose model definition and populate edges",
+      "repo": "https://github.com/codewithjoe-tech/jcode-mongoose"
+    }
+  }
+}
