@@ -30,6 +30,12 @@
       "git": "https://github.com/codewithjoe-tech/jcode-mongoose",
       "description": "Mongoose model definition and populate edges",
       "repo": "https://github.com/codewithjoe-tech/jcode-mongoose"
+    },
+    "react": {
+      "pip": "jcode-react",
+      "git": "https://github.com/codewithjoe-tech/jcode-react",
+      "description": "React component renders, hook usage and context edges for .tsx/.jsx",
+      "repo": "https://github.com/codewithjoe-tech/jcode-react"
     }
   }
 }
